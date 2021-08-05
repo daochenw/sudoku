@@ -107,4 +107,3 @@ void Storage::test(){
 Storage::~Storage() {
 	//cout << "A Storage instance has been destroyed!"<<endl;
 }
-
