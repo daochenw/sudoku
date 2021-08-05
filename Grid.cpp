@@ -140,6 +140,3 @@ map<string,string> Grid::calc_grid_values(){
 Grid::~Grid() {
 	//cout << "A Grid instance has been destroyed!" << endl;
 }
-
-
-
