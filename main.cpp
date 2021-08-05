@@ -38,7 +38,3 @@ void display(tuple<map<string,string>,bool> values){
 		cout << underline << endl;}
 		}}
 }
-
-
-
-
